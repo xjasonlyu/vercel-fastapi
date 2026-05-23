@@ -1,2 +1,3 @@
 # vercel-fastapi
-Vercel serverless functions using FastAPI
+
+Vercel serverless functions powered by FastAPI.
